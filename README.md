@@ -43,6 +43,10 @@ Response:
 
 ```
 
+Postman:
+--------
+![Postman setPorperty](images/setProperty.png)
+
 
 REDIS exists
 ------------
@@ -63,6 +67,10 @@ Response:
     true
 ```
 
+Postman:
+--------
+![Postman setPorperty](images/exists.png)
+
 
 REDIS delete
 ------------
@@ -82,6 +90,11 @@ Response:
 ```json
     true
 ```
+
+Postman:
+--------
+![Postman setPorperty](images/delete.png)
+
 
 ## License
 
